@@ -13,7 +13,7 @@ This project implements a generic database proxy, exposing CRUD (Create, Read, U
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/database-proxy.git
+git clone https://github.com/rohitdalmia/Database_Proxy_CRUD_REST_API.git
 ```
 
 2. **Install dependencies:**
